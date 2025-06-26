@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: SiteProvisionClient, Tenant: Contoso (M365CPI53816454.onmicrosoft.com - Microsoft Entra ID)",
+      "secretStore": "LocalSecretsFile",
+      "type": "identityapp.secretStore",
+      "connectionId": "AzureAD:ClientSecret"
+    }
+  }
+}

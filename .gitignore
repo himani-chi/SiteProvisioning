@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+# Publish profiles
+*.pubxml
+*.publishsettings
+Properties/PublishProfiles/
+# Ignore publish profiles and service dependencies
+**/Properties/PublishProfiles/
+**/Properties/ServiceDependencies/
